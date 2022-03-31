@@ -1,0 +1,61 @@
+.form {
+  margin-top: 20vh;
+}
+.form > form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  text-align: left;
+  margin: auto;
+  border: 2px solid white;
+  vertical-align: middle;
+  padding: 4%;
+  
+  border-radius: 10px;
+  color: white;
+  height: 60vh;
+}
+.form > form > input {
+  margin-bottom: 3vh;
+  font-size: 25px;
+  border: 2px solid white;
+  background: transparent;
+  border-radius: 5px;
+
+}
+/* .form > form > select {
+  margin-bottom: 2vh;
+  height: 40px;
+  font-size: 18px;
+  padding: 2%;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  border-radius: 5px;
+} */
+.form > form > label {
+  margin-top: 4vh;
+  margin-bottom: 3vh;
+  font-size: 30px;
+}
+.form > form > button {
+  background-color: rgb(46, 141, 230);
+  border: 2px solid white;
+  width: 100%;
+  margin: auto;
+  margin-top: 2vh;
+  font-size: 22px;
+  border-radius: 5px;
+  height:9vh;
+  margin-top: 45px;
+}
+.homeinputfield {
+  color: white;
+}
+.newroombtn {
+  color: chartreuse;
+}
+.para{
+  font-size: 18px;
+  margin-top: 30px;
+}
